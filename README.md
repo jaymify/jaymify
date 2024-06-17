@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Digital Futures Academy](https://digitalfutures.com/)
+- 🔭 I’m currently working on a Habitica Clone App
+
+- 🎓 I recently graduated from [Digital Futures Academy](https://digitalfutures.com/)
   
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **E2E Encryption Methods**
   
-- 👯 I’m looking to collaborate on **Java Full Stack**
+- 👯 I’m looking to collaborate on more **Peer Programming Projects**
   
 - 🤔 I’m looking for help with **Collaborating on Hackathons**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaymify](https://github.com/jaymify)
  
-- 💬 Ask me about **Java, JavaScript, React, Vite, GenAI**
+- 💬 Ask me about **Java, JavaScript, React, MERN, GenAI**
  
 - 📫 You can reach me at [https://www.linkedin.com/in/jarnell/](https://www.linkedin.com/in/jarnell/)
  

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Habitica Clone App
+- 🔭 I’m currently working on a [Habitica Clone App](https://github.com/jaymify/eat-the-frog-app)
 
 - 🎓 I recently graduated from [Digital Futures Academy](https://digitalfutures.com/)
   
